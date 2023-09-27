@@ -1,5 +1,4 @@
-// Challenge 2:
-// Replace the parameters below according to your preference.
+
 
 // space, scary, military, romantic, cowboy, fantasy, superhero
 favouriteMovieGenre("fantasy")
